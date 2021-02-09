@@ -1,0 +1,36 @@
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    text-align: center;
+    min-height: 70vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.input {
+    width: 10em;
+    border-radius: .6em;
+    border: 1px solid rgb(7, 6, 6);
+    padding: .20rem;
+}
+
+.select {
+ border-spacing: 5rem;
+ margin-left: 5rem;
+}
+
+.equals {
+    font-size: large;  
+    font-weight: bolder;
+}
