@@ -1,4 +1,4 @@
-#### Currency Calculation for Athena ###
+#### Currency Calculation ###
 
 ### Check package.json for dependencies######
 
